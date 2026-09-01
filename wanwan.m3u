@@ -1,0 +1,182 @@
+#EXTM3U
+#EXT-X-APP APTV
+#EXTINF:-1 group-title="未分类",华视HD🇨🇳
+rtmp://f13h.mine.nu/sat/tv111
+#EXTINF:-1 group-title="未分类",台视HD🇨🇳
+rtmp://f13h.mine.nu/sat/tv071
+#EXTINF:-1 group-title="未分类",中视HD 🇨🇳
+rtmp://f13h.mine.nu/sat/tv091
+#EXTINF:-1 group-title="未分类",民视HD 🇨🇳
+rtmp://f13h.mine.nu/sat/tv051
+#EXTINF:-1 group-title="未分类",玮来日本
+rtmp://f13h.mine.nu/sat/tv771
+#EXTINF:-1 group-title="未分类",玮来育乐台
+rtmp://f13h.mine.nu/sat/tv701
+#EXTINF:-1 group-title="未分类",玮来体育
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="未分类",东森超视
+rtmp://f13h.mine.nu/sat/tv331
+#EXTINF:-1 group-title="未分类",mo综合
+rtmp://f13h.mine.nu/sat/tv761
+#EXTINF:-1 group-title="未分类",ELE体育1
+rtmp://f13h.mine.nu/sat/tv731
+#EXTINF:-1 group-title="未分类",ELE体育2
+rtmp://f13h.mine.nu/sat/tv741
+#EXTINF:-1 group-title="未分类",ELE体育3
+rtmp://f13h.mine.nu/sat/tv751
+#EXTINF:-1 group-title="未分类",台湾番薯2
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="未分类",台湾番薯3
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1 group-title="未分类",台湾番薯4
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1 group-title="未分类",台湾番薯5
+http://61.216.67.119:1935/TWHG/E1/chunklist_w70581102.m3u8
+#EXTINF:-1 group-title="未分类",台湾番薯6
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8?blog.ntnas.top
+#EXTINF:-1 group-title="未分类",TVB功夫台
+https://ali.hlspull.yximgs.com/live/12344.flv
+#EXTINF:-1 group-title="未分类",星光视界频道
+http://ali.hlspull.yximgs.com/live/zxcvbnm9852.flv
+#EXTINF:-1 group-title="未分类",大立电视
+http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+#EXTINF:-1 group-title="未分类",邵氏经典
+http://159.75.85.63:35455/douyu/4246519
+#EXTINF:-1 group-title="未分类",大爱
+https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+#EXTINF:-1 group-title="未分类",星空卫视
+http://wouu.net:9977/udp/239.93.0.156:2193
+#EXTINF:-1 group-title="未分类",香港卫视
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:-1 group-title="未分类",澳门莲花
+http://php.jdshipin.com:8880/amlh.php
+#EXTINF:-1 group-title="未分类",八大戏剧
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="未分类",耀才财经
+https://v3.mediacast.hk/webcast/bshdlive-pc/chunklist_w99771165.m3u8
+#EXTINF:-1 group-title="未分类",东森新闻
+http://37.27.111.214:8080/live/20/hls.m3u8
+#EXTINF:-1 group-title="未分类",环宇新闻
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="未分类",TVBS
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="未分类",镜新闻
+http://37.27.111.214:8080/live/62/hls.m3u8
+#EXTINF:-1 group-title="未分类",环宇新闻台
+http://37.27.111.214:8080/live/63/hls.m3u8
+#EXTINF:-1 group-title="未分类",TVB新闻台
+http://61.221.215.25:8800/hls/9/index.m3u8
+#EXTINF:-1 group-title="未分类",环宇财经台
+http://37.27.111.214:8080/live/65/hls.m3u8
+#EXTINF:-1 group-title="未分类",三立戏剧台
+http://61.221.215.25:8800/hls/41/index.m3u8
+#EXTINF:-1 group-title="未分类",八大戏剧台
+http://61.221.215.25:8800/hls/39/index.m3u8
+#EXTINF:-1 group-title="未分类",中天娱乐台
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:-1 group-title="未分类",八大综合
+http://61.221.215.25:8800/hls/56/index.m3u8
+#EXTINF:-1 group-title="未分类",八大第一
+http://61.221.215.25:8800/hls/55/index.m3u8
+#EXTINF:-1 group-title="未分类",玮来精彩
+http://61.221.215.25:8800/hls/48/index.m3u8
+#EXTINF:-1 group-title="未分类",中视经典
+http://37.27.111.214:8080/live/47/hls.m3u8
+#EXTINF:-1 group-title="未分类",民视台湾台
+http://37.27.111.214:8080/live/5/hls.m3u8
+#EXTINF:-1 group-title="未分类",民视第一台
+http://37.27.111.214:8080/live/4/hls.m3u8
+#EXTINF:-1 group-title="未分类",龙华电影
+http://37.27.111.214:8080/live/19/hls.m3u8
+#EXTINF:-1 group-title="未分类",AMC电影
+http://61.221.215.25:8800/hls/43/index.m3u8
+#EXTINF:-1 group-title="未分类",玮来篮球🏀
+rtmp://f13h.mine.nu/sat/tv721
+#EXTINF:-1 group-title="未分类",RedBullTV体育
+http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1 group-title="未分类",极限格斗
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/144/index.m3u8
+#EXTINF:-1 group-title="未分类",BT体育1
+http://a16e00c6.ucomist.net/iptv/UPKY3Y8BF6KNX8/2505/index.m3u8
+#EXTINF:-1 group-title="未分类",探索亚洲🌏
+http://61.221.215.25:8800/hls/50/index.m3u8
+#EXTINF:-1 group-title="未分类",动物星球
+http://61.221.215.25:8800/hls/57/index.m3u8
+#EXTINF:-1 group-title="未分类",QTV-1
+http://hlspull.qtv.com.cn/gwepn2sr/channel/969b06fca3f82c40de59171b3eb9428c/index.m3u8
+#EXTINF:-1 group-title="未分类",中华小当家
+http://61.221.215.25:8800/hls/40/index.m3u8
+#EXTINF:-1 group-title="未分类",动画杂烩
+https://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/e0db2445002a4b67b57d12b4c33c1529/1200.m3u8
+#EXTINF:-1 group-title="未分类",猫和老鼠剧集
+http://159.75.85.63:35455/huya/11352879#http://cfss.cc/cdn/hy/
+#EXTINF:-1 group-title="未分类",蜡笔小新合集
+http://159.75.85.63:35455/huya/11352970#http://cfss.cc/cdn/hy/11352970.m3u8
+#EXTINF:-1 group-title="未分类",哆啦A梦合集
+http://159.75.85.63:35455/huya/11601963#http://cfss.cc/cdn/hy/11601963.m3u8
+#EXTINF:-1 group-title="未分类",灌篮高手剧集
+http://159.75.85.63:35455/yy/1356243352
+#EXTINF:-1 group-title="未分类",四驱兄弟剧集
+http://159.75.85.63:35455/huya/11352922#http://cfss.cc/cdn/hy/
+#EXTINF:-1 group-title="未分类",樱桃小丸子剧
+http://159.75.85.63:35455/huya/11342394#http://cfss.cc/cdn/hy/
+#EXTINF:-1 group-title="未分类",Q版三国剧集
+http://159.75.85.63:35455/huya/29465871#http://cfss.cc/cdn/hy/29465871.m3u8
+#EXTINF:-1 group-title="未分类",龙珠全集解说1
+http://159.75.85.63:35455/huya/10279885#http://cfss.cc/cdn/hy/10279885.m3u8
+#EXTINF:-1 group-title="未分类",龙珠全集解说2
+http://159.75.85.63:35455/huya/19757963#http://cfss.cc/cdn/hy/19757963.m3u8
+#EXTINF:-1 group-title="未分类",龙珠全集剧集3
+http://159.75.85.63:35455/huya/11601966#http://cfss.cc/cdn/hy/11601966.m3u8
+#EXTINF:-1 group-title="未分类",龙珠全集剧集4
+http://159.75.85.63:35455/huya/16755322#http://cfss.cc/cdn/hy/16755322.m3u8
+#EXTINF:-1 group-title="未分类",头文字D剧集
+http://159.75.85.63:35455/huya/11352889#http://cfss.cc/cdn/hy/
+#EXTINF:-1 group-title="未分类",冰冰经典
+http://maomao.kandiantv.cn/douyu1.php?id=74374
+#EXTINF:-1 group-title="未分类",吃米滴虫
+http://maomao.kandiantv.cn/douyu1.php?
+#EXTINF:-1 group-title="未分类",瑶瑶恐怖
+http://maomao.kandiantv.cn/douyu1.php?id=2935323
+#EXTINF:-1 group-title="未分类",星爷电影大全
+http://maomao.kandiantv.cn/douyu1.php?id=508118
+#EXTINF:-1 group-title="未分类",萌小鬼片
+http://maomao.kandiantv.cn/douyu1.php?id=3928
+#EXTINF:-1 group-title="未分类",神乐影院
+http://maomao.kandiantv.cn/douyu1.php?
+#EXTINF:-1 group-title="未分类",可乐🥤影院
+http://maomao.kandiantv.cn/douyu1.php?id=20415
+#EXTINF:-1 group-title="未分类",小宇60帧
+http://maomao.kandiantv.cn/douyu1.php?id=323876
+#EXTINF:-1 group-title="未分类",恐怖惊悚
+http://maomao.kandiantv.cn/douyu1.php?id=96577
+#EXTINF:-1 group-title="未分类",電影劇場
+http://maomao.kandiantv.cn/douyu1.php?id=7575350
+#EXTINF:-1 group-title="未分类",國語電影
+http://maomao.kandiantv.cn/douyu1.php?id=2436390
+#EXTINF:-1 group-title="未分类",豆瓣高分
+http://maomao.kandiantv.cn/douyu1.php?id=8770422
+#EXTINF:-1 group-title="未分类",鱼宝恐怖
+http://maomao.kandiantv.cn/douyu1.php?id=1165374
+#EXTINF:-1 group-title="未分类",恐怖轮播
+http://maomao.kandiantv.cn/douyu1.php?id=96577
+#EXTINF:-1 group-title="未分类",英叔轮播
+http://maomao.kandiantv.cn/douyu1.php?id=2935323
+#EXTINF:-1 group-title="未分类",经典回忆频道
+http://live.dxms.top:80/dwy/hyyy.php
+#EXTINF:-1 group-title="未分类",CCtv6电影频道
+http://mobilelive-ds.ysp.cctv.cn/ysp/2013693901.m3u8
+#EXTINF:-1 group-title="未分类",九一神雕侠侣
+http://jsmov2.a.yximgs.com/bs3/video-hls/5227553349016599035_hlsb.m3u8
+#EXTINF:-1 group-title="未分类",九二神雕之痴心情长剑
+http://jsmov2.a.yximgs.com/bs3/video-hls/5188428323796620673_hlsb.m3u8
+#EXTINF:-1 group-title="未分类",冒险王
+https://cdn4.yzzy-tv-cdn.com/20220608/17622_c083f16b/index.m3u8
+#EXTINF:-1 group-title="未分类",翡翠台
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="未分类",翡翠
+http://php.jdshipin.com:8880/smt.php?id=jade_twn
+#EXTINF:-1 group-title="未分类",好消息2
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch2-1.m3u8
+#EXTINF:-1 group-title="未分类",好消息1
+http://live-350k.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch1-1.m3u8
